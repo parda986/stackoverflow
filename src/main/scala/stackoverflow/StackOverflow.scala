@@ -31,11 +31,11 @@ object StackOverflow extends StackOverflow {
     val means   = kmeans(sampleVectors(vectors), vectors, debug = true)
     val results = clusterResults(means, vectors)
     printResults(results)
-    println("Esto es una pruebaa urteruaaaa 23" +
+    println("Esto es una pruebaautttuaaaa 23 " +
       "gg1gg" +
-      "g25gg  1122111" +
-      "rr2r  55" +
-      "fgedfg6")
+      "g25gg  1122111 cacaca" +
+      " rr2r  5 5" +
+      "rge")
   }
 }
 
