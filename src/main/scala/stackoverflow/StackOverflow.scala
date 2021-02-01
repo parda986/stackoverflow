@@ -32,8 +32,8 @@ object StackOverflow extends StackOverflow {
     val results = clusterResults(means, vectors)
     printResults(results)
     println("Esto es una pruebaauuaaaa" +
-      "ggOgg" +
-      "ggggg" +
+      "gg7gg" +
+      "gg425ggg4444  44" +
       "rrr")
   }
 }
